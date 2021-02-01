@@ -1,0 +1,8 @@
+{
+  "/apps/*": {
+    "target": "https://maps.vnpost.vn",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}

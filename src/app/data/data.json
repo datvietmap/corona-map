@@ -1,0 +1,178 @@
+[
+  {
+      "ID": 1,
+      "name": "Bệnh viện Bạch Mai",
+      "Lat": 21.000964,
+      "Lng": 105.840685,
+      "address": "78 Đường Giải Phóng, Phương Đình, Đống Đa, Hà Nội, Việt Nam",
+      "phone": "04 3869 3731"
+  },
+  {
+      "ID": 2,
+      "name": "Bệnh viện Nhiệt đới Trung ương",
+      "Lat": 21.002187,
+      "Lng": 105.838935,
+      "address": "78 Giải Phóng, Phương Đình, Đống Đa, Hà Nội, Việt Nam",
+      "phone": "024 3581 0172"
+  },
+  {
+      "ID": 3,
+      "name": "Bệnh viện E",
+      "Lat": 21.050104,
+      "Lng": 105.789570,
+      "address": "87 Trần Cung, Nghĩa Tân, Cầu Giấy, Hà Nội, Việt Nam",
+      "phone": "086 889 1318"
+  },
+  {
+      "ID": 4,
+      "name": "Bệnh viện nhi Trung ương",
+      "Lat": 21.024894,
+      "Lng": 105.807497,
+      "address": "879 Đường La Thành, Láng Thượng, Đống Đa, Hà Nội, Việt Nam",
+      "phone": "(84-024) 6 273 8532"
+  },
+  {
+      "ID": 5,
+      "name": "Bệnh viện Phổi Trung ương",
+      "Lat": 21.043367,
+      "Lng": 105.813953,
+      "address": "463 Hoàng Hoa Thám, Vĩnh Phú, Ba Đình, Hà Nội, Việt Nam",
+      "phone": "0243 8326 249"
+  },
+  {
+      "ID": 6,
+      "name": "Bệnh viện Việt Nam - Thụy Điển",
+      "Lat": 21.041668,
+      "Lng": 106.752041,
+      "address": "Tuệ Tĩnh, Thanh Sơn, Thành phố Uông Bí, Quảng Ninh, Việt Nam",
+      "phone": " 02033.854037 - 02033.854038"
+  },
+  {
+      "ID": 7,
+      "name": "Bệnh viện Đa khoa Trung ương Thái Nguyên",
+      "Lat": 21.587966,
+      "Lng": 105.830908,
+      "address": "Đường Lương Ngọc Quyến, Phan Đình Phùng, Thành phố Thái Nguyên, Thái Nguyên, Việt Nam",
+      "phone": "0208 3855 125"
+  },
+  {
+      "ID": 8,
+      "name": "Bệnh viện Trung ương Huế",
+      "Lat": 16.462458,
+      "Lng": 107.587965,
+      "address": "16 Lê Lợi, Vĩnh Ninh, Thành phố Huế, Thừa Thiên Huế, Việt Nam",
+      "phone": " 0234 3822325"
+  },
+  {
+      "ID": 9,
+      "name": "Bệnh viện Chợ Rẫy",
+      "Lat": 10.757078,
+      "Lng": 106.659731,
+      "address": "201B Nguyễn Chí Thanh, Phường 12, Quận 5, Hồ Chí Minh, Việt Nam",
+      "phone": "(84-028) 3855 4137 - (84-028) 3855 4138"
+  },
+  {
+      "ID": 10,
+      "name": "Bệnh viện Đa khoa Trung ương Cần Thơ",
+      "Lat": 10.028778,
+      "Lng": 105.755398,
+      "address": "315 Đường Nguyễn Văn Linh, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam",
+      "phone": "+84 (0710).3820071"
+  },
+  {
+      "ID": 11,
+      "name": "Bệnh viện Saint Paul Hà Nội",
+      "Lat": 21.031387,
+      "Lng": 105.835169,
+      "address": "12 Chu Văn An, Điện Bàn, Ba Đình, Hà Nội, Việt Nam",
+      "phone": "02438233075 - 02438233073 "
+  },
+  {
+      "ID": 12,
+      "name": "Bệnh viện Vinmec Hà Nội",
+      "Lat": 20.996390,
+      "Lng": 105.866965,
+      "address": "458 Phố Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội, Việt Nam",
+      "phone": "0243 9743 556"
+  },
+  {
+      "ID": 13,
+      "name": "Bệnh viện Đà Nẵng",
+      "Lat": 16.073852,
+      "Lng": 108.216567,
+      "address": "103 Quang Trung, Thạch Thang, Hải Châu, Đà Nẵng 550000, Việt Nam",
+      "phone": "0236.3821118"
+  },
+  {
+      "ID": 14,
+      "name": "Bệnh viện Nhiệt đới TP Hồ Chí Minh",
+      "Lat": 10.752908,
+      "Lng": 106.678514,
+      "address": "764 Võ Văn Kiệt, Phường 1, Quận 5, Hồ Chí Minh, Việt Nam",
+      "phone": " 028 3923 8704 - 028 3923 5804"
+  },
+  {
+      "ID": 15,
+      "name": "Bệnh viện Nhi đồng I",
+      "Lat": 10.768584,
+      "Lng": 106.670159,
+      "address": "341 Sư Vạn Hạnh, Phường 10, Quận 10, Hồ Chí Minh, Việt Nam",
+      "phone": "028 3927 1119"
+  },
+  {
+      "ID": 16,
+      "name": "Bệnh viện Nhi đồng II",
+      "Lat": 10.780899,
+      "Lng": 106.702318,
+      "address": "14 Lý Tự Trọng, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+      "phone": "(028) 38295723 - (028) 38295724"
+  },
+  {
+      "ID": 17,
+      "name": "Bệnh viện Đa khoa tỉnh Đồng Nai",
+      "Lat": 10.952852,
+      "Lng": 106.867829,
+      "address": "2 Đường Đồng Khởi, Tam Hoà, Thành phố Biên Hòa, Tam Hoà tp. Biên Hòa Đồng Nai, Việt Nam",
+      "phone": "0251 8825 609 - 0967 901 717"
+  },
+  {
+      "ID": 18,
+      "name": "Bệnh viện Nhiệt đới Khánh Hòa",
+      "Lat": 12.257942,
+      "Lng": 109.109295,
+      "address": "Diên An, Diên Khánh, Khánh Hòa, Việt Nam",
+      "phone": "0258 3760 115 - 0914 488 329"
+  },
+  {
+      "ID": 19,
+      "name": "Bệnh viện Đa khoa tỉnh Khánh Hòa",
+      "Lat": 12.248471,
+      "Lng": 109.191915,
+      "address": "19 Yersin, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Việt Nam",
+      "phone": "058.3822175"
+  },
+  {
+      "ID": 20,
+      "name": "Bệnh viện Đa khoa tỉnh Thái Bình",
+      "Lat": 20.440861,
+      "Lng": 106.337740,
+      "address": "530 Lý Bôn, P. Quan Trung, Thái Bình, Việt Nam",
+      "phone": "(0227) 3831042  - 19001990"
+  },
+  {
+      "ID": 21,
+      "name": "Bệnh viện Đa khoa tỉnh Lạng Sơn",
+      "Lat": 21.886988,
+      "Lng": 106.758296,
+      "address": "Thôn Đại Sơn Xã, Hợp Thành, Cao Lộc, Lạng Sơn, Việt Nam",
+      "phone": "02053.870.039"
+  },
+  {
+      "ID": 22,
+      "name": "Bộ Y Tế",
+      "Lat": 21.028462,
+      "Lng": 105.825460,
+      "address": "138A Giảng Võ, Kim Mã, Ba Đình, Hà Nội, Việt Nam",
+      "phone": "0246.273.2.273"
+  }
+]

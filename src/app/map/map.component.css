@@ -1,0 +1,16 @@
+
+/* .datepicker1{
+  left: 40px;
+}
+.datepicker2{
+  left: 260px;
+} */
+.mat-form-field-appearance-legacy .mat-form-field-underline {
+  background-color: transparent !important;
+}
+mat-accordion{
+  position: absolute;
+    top: 10px;
+    z-index: 999999;
+    left: 48px;
+}

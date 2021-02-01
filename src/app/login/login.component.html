@@ -1,0 +1,45 @@
+<form [formGroup]="rfContact" style="margin-top: 250px ;"  (ngSubmit)="onSubmit()"
+>
+  <div class="row justify-content-md-center">
+    <h1 style="font-size: 70px;">Đăng Nhập</h1>
+  </div> <hr>
+  <div class="row justify-content-md-center">
+    <div class="col-md-5">
+        <div class="form-group row">
+          <label for="example-text-input" class="col-12 col-form-label">
+            Tên người dùng:
+          </label>
+          <div class="col-12">
+            <input class="form-control" formControlName="contactName" type="text"
+              id="example-text-input">
+          </div>
+        </div>
+        <div class="col alert alert-danger" role="alert"
+  *ngIf="rfContact.controls.contactName?.errors?.invalidusername
+         && rfContact.controls.contactName?.touched">
+  correct the name
+</div>
+        <div class="form-group row">
+          <label for="example-email-input" class="col-12 col-form-label">
+            Mật khẩu:
+          </label>
+          <div class="col-12">
+            <input class="form-control" formControlName="pw" type="text"
+              id="example-email-input">
+          </div>
+        </div>
+        <div class="col alert alert-danger" role="alert"
+  *ngIf="rfContact.controls.pw?.errors?.invalidusername
+         && rfContact.controls.pw?.touched">
+  correct the name
+</div>
+        <div class="form-group row">
+          <div class="col-12 ">
+            <button class="btn btn-secondary btn-lg btn-block"
+              type="submit" >Đăng nhập</button>
+          </div>
+        </div>
+      </div>
+  </div>
+  
+</form>

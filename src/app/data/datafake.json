@@ -1,0 +1,258 @@
+[
+  {
+    "objectId": "11",
+    "caseNo": "15",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "lat":  21.002187,
+      "long": 105.838935
+    },
+    "parrentId": "9",
+    "childArrayId": "18, 19, 20",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F0",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": "2020-03-08 16:00:00"
+  },
+  {
+    "objectId": "11",
+    "caseNo": "15",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "lat":  21.002187,
+      "long": 105.838935
+    },
+    "parrentId": "9",
+    "childArrayId": "18, 19, 20",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F0",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": "2020-03-08 16:00:00"
+  },
+  {
+    "objectId": "12",
+    "caseNo": "",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "long": 105.840685,
+      "lat": 21.000964
+    },
+    "parrentNo": "11",
+    "childArrayNo": "22",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F1",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": ""
+  },
+  {
+    "objectId": "12",
+    "caseNo": "",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "long": 105.840685,
+      "lat": 10.757011
+    },
+    "parrentNo": "11",
+    "childArrayNo": "22",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F2",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": ""
+  },
+  {
+    "objectId": "11",
+    "caseNo": "15",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "lat":  21.002187,
+      "long": 105.838935
+    },
+    "parrentId": "9",
+    "childArrayId": "18, 19, 20",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F0",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": "2020-03-08 16:00:00"
+  },
+  {
+    "objectId": "11",
+    "caseNo": "15",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "lat":  21.002187,
+      "long": 105.838935
+    },
+    "parrentId": "9",
+    "childArrayId": "18, 19, 20",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F0",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": "2020-03-08 16:00:00"
+  },
+  {
+    "objectId": "12",
+    "caseNo": "",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "long": 105.840685,
+      "lat": 21.000964
+    },
+    "parrentNo": "11",
+    "childArrayNo": "22",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F1",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": ""
+  },
+  {
+    "objectId": "12",
+    "caseNo": "",
+    "name": "Nguyễn Sơn Tùng",
+    "location": {
+      "address": "115 Trần Duy Hưng, Trung Hoà, Cầu Giấy",
+      "long": 105.840685,
+      "lat": 10.757011
+    },
+    "parrentNo": "11",
+    "childArrayNo": "22",
+    "gender": "Nam",
+    "birthday": "01/01/1990",
+    "visited": {
+      "1": {
+        "address": "112 Trúc Bạch",
+        "long": "111",
+        "lat": "222"
+      },
+      "2": {
+        "address": "225 Cầu Giấy",
+        "long": "11",
+        "lat": "22"
+      }
+    },
+    "phone": "0987654321",
+    "citizenship": "Việt Nam",
+    "from": "Pháp",
+    "group": "F2",
+    "firstDateSeen": "2020-03-06 08:30:00",
+    "confirmDate": ""
+  }
+]

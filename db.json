@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "address": "Thanh Hóa",
+      "number": 1,
+      "deaths": 0,
+      "recovered": 0,
+      "danger": 0.9,
+      "Lat": 19.775846,
+      "Lng": 105.77158
+    },
+    {
+      "id": 2,
+      "address": "Hà Nội",
+      "number": 2,
+      "deaths": 0,
+      "recovered": 0,
+      "danger": 0.7,
+      "Lat": 21.131498,
+      "Lng": 105.774478
+    },
+    {
+      "id": 3,
+      "address": "Hồ Chí Minh",
+      "number": 2,
+      "deaths": 0,
+      "danger": 0.5,
+      "recovered": 2,
+      "Lat": 10.757011,
+      "Lng": 106.660031
+    },
+    {
+      "id": 4,
+      "address": "Khánh Hòa",
+      "number": 1,
+      "deaths": 0,
+      "danger": 0.5,
+      "recovered": 0,
+      "Lat": 19.775846,
+      "Lng": 105.77158
+    },
+    {
+      "id": 5,
+      "address": "Bến Tre",
+      "number": 1,
+      "deaths": 0,
+      "danger": 0.5,
+      "recovered": 0,
+      "Lat": 10.238675,
+      "Lng": 106.366778
+    },
+    {
+      "id": 6,
+      "address": "",
+      "number": 0,
+      "deaths": 0,
+      "danger": 0,
+      "recovered": 0,
+      "Lat": 0,
+      "Lng": 0
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
